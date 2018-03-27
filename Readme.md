@@ -49,7 +49,7 @@ The data can be passed to tSNEJS as a set of high-dimensional points using the `
 There are two web interfaces to this library that we are aware of:
 
 - By Andrej, [here](http://cs.stanford.edu/people/karpathy/tsnejs/csvdemo.html).  -- works fine
-- By Laurens, [here](http://homepage.tudelft.nl/19j49/tsnejs/), which takes data in different format and can also use Google Spreadsheet input.
+- By Laurens, [here](http://homepage.tudelft.nl/19j49/tsnejs/), which takes data in different format and can also use Google Spreadsheet input.  -- can not upload the personal csv file due to `too long url error`
 
 ## About
 Send questions to [@karpathy](https://twitter.com/karpathy).
